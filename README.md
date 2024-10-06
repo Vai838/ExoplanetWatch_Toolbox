@@ -55,7 +55,7 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 
 ## License
 
-This project is licensed under GPL-3
+This project is licensed under GPL-3. [Read more](https://github.com/Vai838/ExoplanetWatch_Toolbox/blob/main/LICENSE)
 
 ---
 
