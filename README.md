@@ -1,5 +1,3 @@
----
-
 # ExoplanetWatchToolbox
 
 **Description:**
